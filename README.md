@@ -1,7 +1,7 @@
 ### 👋 Merhaba, ben Atalay Çelik!
 
-Yeni mezun bir yazılım mühendisiyim. Full-stack geliştirme alanında çalışıyorum.  
-React ve Node.js ile projeler geliştirdim; aynı zamanda C#, .NET ve SQL konularında da temel düzeyde uygulamalar yapmaktayım.
+Yeni mezun bir yazılım mühendisiyim. Full-stack geliştirme alanında çalışıyorum.
+React, C#, .NET ve SQL ile projeler geliştirdim; aynı zamanda Node.js ile de temel düzeyde uygulamalar yapmaktayım.
 
 🛠️ Hedefim; kullanıcı dostu, hızlı ve sürdürülebilir yazılımlar üretmek.  
 📚 Yeni teknolojileri öğrenmeye ve kendimi geliştirmeye açık bir yazılımcıyım.  
