@@ -19,6 +19,17 @@ React, C#, .NET ve SQL ile projeler geliştirdim; aynı zamanda Node.js ile de t
 
 ### 📌 Öne Çıkan Projelerim
 
+#### 🛒 [E-Commerce React](https://github.com/overflowd/e-commerce-react)
+Tam yığın (full-stack) bir e-ticaret platformu.
+Frontend kısmı React, Redux ve Axios ile geliştirilmiştir. Kullanıcılar ürünleri listeleyebilir, kategori filtreleme yapabilir, sepete/favorilere ürün ekleyebilir.
+Backend kısmı ASP.NET Core Web API mimarisiyle yazılmıştır ve Entity Framework ile veritabanı işlemleri gerçekleştirilmiştir.
+Katmanlı mimari, repository pattern, DTO kullanımı ve veri doğrulama gibi yazılım prensiplerine uygun şekilde yapılandırılmıştır.
+
+#### 🛒 [E-Commerce (.NET MVC)](https://github.com/overflowd/e-commerce)
+ASP.NET Core MVC mimarisiyle geliştirilmiş e-ticaret uygulaması.  
+Entity Framework ile veritabanı işlemleri gerçekleştirilmiştir.  
+Ürün listeleme, kategori filtreleme, slider yönetimi gibi işlevlere sahiptir.
+
 #### 🧠 [User App](https://github.com/overflowd/user-app)
 Tam yığın kullanıcı yönetim sistemi (CRUD).  
 React ile arayüz, Node.js & Express ile API, MySQL + Sequelize ile veritabanı işlemleri.
