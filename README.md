@@ -42,10 +42,6 @@ Veri işlemleri için Sequelize ORM ve MySQL kullandım.
 REST Countries API ve Geolocation API ile çalışan ülke bilgi uygulaması.  
 Konum tabanlı arama, hatalı veri yönetimi ve dinamik arayüz.
 
-#### 🎮 [Valorant Data App](https://github.com/overflowd/valorant-data-app-react)
-Valorant oyunundan karakter, silah ve harita verileri çeken React tabanlı uygulama.  
-Asenkron veri çekme ve kullanıcı dostu arayüz geliştirme deneyimi.
-
 ---
 
 ### 📫 Bana Ulaşın
