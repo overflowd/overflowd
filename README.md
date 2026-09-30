@@ -1,46 +1,39 @@
-### 👋 Merhaba, ben Atalay Çelik!
+### 👋 Merhaba, ben Atalay Çelik! (Ati)
 
-Yeni mezun bir yazılım mühendisiyim. Full-stack geliştirme alanında çalışıyorum.
-React, C#, .NET ve SQL ile projeler geliştirdim; aynı zamanda Node.js ile de temel düzeyde uygulamalar yapmaktayım.
+**Full-Stack Yazılım Mühendisi | Sistem Kurucu | AI-Assisted Developer**
 
-🛠️ Hedefim; kullanıcı dostu, hızlı ve sürdürülebilir yazılımlar üretmek.  
-📚 Yeni teknolojileri öğrenmeye ve kendimi geliştirmeye açık bir yazılımcıyım.  
+Modern web ve mobil mimarilerinde uçtan uca ölçeklenebilir ürünler geliştiriyorum. Geleneksel yazılım süreçlerinin ötesine geçerek; **Spec-Driven Development (SDD)** metodolojisi ve **AI-Assisted Coding** araçlarıyla karmaşık sistemleri (AI entegrasyonları, mikroservisler, dağıtık kuyruklar) hızlı ve güvenilir bir şekilde canlıya alıyorum.
+
+🛠️ **Odak Noktam:** Yüksek performanslı API'ler, yapay zeka destekli mobil/web uygulamaları ve hataya toleranslı sistem mimarileri tasarlamak.
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 🚀 Teknoloji Yığınım & Araçlar
 
-- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express.js, C#, .NET
-- **Veritabanı:** MySQL, Sequelize, SQL Server
-- **Araçlar:** Git, GitHub, REST API
+- **Frontend & Mobil:** React, React Native (Expo), TypeScript, Zustand, HTML/CSS
+- **Backend & AI:** C# (.NET Core, Web API), Node.js (Express), Python (FastAPI), LLM & TTS Entegrasyonları, SAM2 (Bilgisayarlı Görü)
+- **Mimari & Veritabanı:** PostgreSQL, SQL Server, MySQL, Entity Framework, Mikroservisler, Dağıtık İş Kuyrukları (Job Queues)
+- **DevOps & Araçlar:** Git, Docker, REST API, Cursor, Antigravity IDE
 
 ---
 
 ### 📌 Öne Çıkan Projelerim
 
+#### 🦄 [MasalKutusu](https://github.com/overflowd/MasalKutusu)
+Çocukların oyuncak fotoğraflarını bilgisayarlı görü (SAM2) ve çok modlu yapay zeka (LLM, Grok, TTS) boru hatlarıyla kişiselleştirilmiş, sesli masallara dönüştüren uçtan uca mobil platform.
+* **Teknolojiler:** React Native, Expo, Python, FastAPI, PostgreSQL, Node.js
+* **Öne Çıkanlar:** Dağıtık iş kuyruğu mimarisi (*Row-Level Database Locking*), *fail-closed JWS* ile güvenli ödeme doğrulama, COPPA uyumlu çocuk gizliliği altyapısı ve dinamik AI orkestrasyonu.
+
 #### 🛒 [E-Commerce React](https://github.com/overflowd/e-commerce-react)
-Tam yığın (full-stack) bir e-ticaret platformu.
-Frontend kısmı React, Redux ve Axios ile geliştirilmiştir. Kullanıcılar ürünleri listeleyebilir, kategori filtreleme yapabilir, sepete/favorilere ürün ekleyebilir.
-Backend kısmı ASP.NET Core Web API mimarisiyle yazılmıştır ve Entity Framework ile veritabanı işlemleri gerçekleştirilmiştir.
-Katmanlı mimari, repository pattern, DTO kullanımı ve veri doğrulama gibi yazılım prensiplerine uygun şekilde yapılandırılmıştır.
+Katmanlı mimari ve repository pattern kullanılarak tasarlanmış, tam yığın (full-stack) e-ticaret platformu.
+* **Teknolojiler:** React, Redux, ASP.NET Core Web API, Entity Framework
+* **Öne Çıkanlar:** DTO kullanımı, veri doğrulama (validation) ve gelişmiş ürün/kategori filtreleme sistemleri.
 
 #### 🛒 [E-Commerce (.NET MVC)](https://github.com/overflowd/e-commerce)
-ASP.NET Core MVC mimarisiyle geliştirilmiş e-ticaret uygulaması.  
-Entity Framework ile veritabanı işlemleri gerçekleştirilmiştir.  
-Ürün listeleme, kategori filtreleme, slider yönetimi gibi işlevlere sahiptir.
+ASP.NET Core MVC mimarisiyle geliştirilmiş, dinamik içerik ve slider yönetimine sahip e-ticaret uygulaması.
 
-#### 🧠 [User App](https://github.com/overflowd/user-app)
-Tam yığın kullanıcı yönetim sistemi (CRUD).  
-React ile arayüz, Node.js & Express ile API, MySQL + Sequelize ile veritabanı işlemleri.
-
-#### 📝 [Blog App](https://github.com/overflowd/blog-app)
-EJS şablon motoru ile geliştirilmiş, SSR destekli blog uygulaması.  
-Veri işlemleri için Sequelize ORM ve MySQL kullandım.
-
-#### 🌍 [Country App](https://github.com/overflowd/country-app)
-REST Countries API ve Geolocation API ile çalışan ülke bilgi uygulaması.  
-Konum tabanlı arama, hatalı veri yönetimi ve dinamik arayüz.
+#### 🧠 [User & Blog Apps](https://github.com/overflowd/user-app)
+Node.js, Express.js ve MySQL (Sequelize ORM) kullanılarak geliştirilmiş, SSR (EJS) destekli ve tam kapsamlı CRUD operasyonları barındıran sistemler.
 
 ---
 
@@ -49,6 +42,4 @@ Konum tabanlı arama, hatalı veri yönetimi ve dinamik arayüz.
 - 💼 [LinkedIn](https://www.linkedin.com/in/atalay-celik/)
 - 📬 atalaycelik4@gmail.com
 
----
-
-> — Atalay Çelik
+> "Karmaşık problemleri, modern ve analitik çözümlere dönüştürüyorum."
