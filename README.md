@@ -1,4 +1,4 @@
-### 👋 Merhaba, ben Atalay Çelik! (Ati)
+### 👋 Merhaba, ben Atalay Çelik!
 
 **Full-Stack Yazılım Mühendisi | Sistem Kurucu | AI-Assisted Developer**
 
