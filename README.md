@@ -17,26 +17,6 @@ Modern web ve mobil mimarilerinde uçtan uca ölçeklenebilir ürünler gelişti
 
 ---
 
-### 📌 Öne Çıkan Projelerim
-
-#### 🦄 [MasalKutusu](https://github.com/overflowd/MasalKutusu)
-Çocukların oyuncak fotoğraflarını bilgisayarlı görü (SAM2) ve çok modlu yapay zeka (LLM, Grok, TTS) boru hatlarıyla kişiselleştirilmiş, sesli masallara dönüştüren uçtan uca mobil platform.
-* **Teknolojiler:** React Native, Expo, Python, FastAPI, PostgreSQL, Node.js
-* **Öne Çıkanlar:** Dağıtık iş kuyruğu mimarisi (*Row-Level Database Locking*), *fail-closed JWS* ile güvenli ödeme doğrulama, COPPA uyumlu çocuk gizliliği altyapısı ve dinamik AI orkestrasyonu.
-
-#### 🛒 [E-Commerce React](https://github.com/overflowd/e-commerce-react)
-Katmanlı mimari ve repository pattern kullanılarak tasarlanmış, tam yığın (full-stack) e-ticaret platformu.
-* **Teknolojiler:** React, Redux, ASP.NET Core Web API, Entity Framework
-* **Öne Çıkanlar:** DTO kullanımı, veri doğrulama (validation) ve gelişmiş ürün/kategori filtreleme sistemleri.
-
-#### 🛒 [E-Commerce (.NET MVC)](https://github.com/overflowd/e-commerce)
-ASP.NET Core MVC mimarisiyle geliştirilmiş, dinamik içerik ve slider yönetimine sahip e-ticaret uygulaması.
-
-#### 🧠 [User & Blog Apps](https://github.com/overflowd/user-app)
-Node.js, Express.js ve MySQL (Sequelize ORM) kullanılarak geliştirilmiş, SSR (EJS) destekli ve tam kapsamlı CRUD operasyonları barındıran sistemler.
-
----
-
 ### 📫 Bana Ulaşın
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/atalay-celik/)
