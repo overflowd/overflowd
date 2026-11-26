@@ -13,13 +13,13 @@
 <!-- Connect & Quick Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/atalay-celik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Atalay_%C3%87elik-262626?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Atalay_%C3%87elik-262626?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   <a href="mailto:atalaycelik4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atalaycelik4%40gmail.com-262626?style=for-the-badge&logo=gmail&logoColor=e5e5e5&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-atalaycelik4%40gmail.com-262626?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0a0a0a" alt="Email" />
   </a>
   <a href="https://github.com/overflowd?tab=followers">
-    <img src="https://img.shields.io/github/followers/overflowd?label=Followers&style=for-the-badge&logo=github&logoColor=e5e5e5&color=262626&labelColor=0a0a0a" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/overflowd?label=Followers&style=for-the-badge&logo=github&logoColor=ffffff&color=262626&labelColor=0a0a0a" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -42,11 +42,11 @@ I design and ship **end-to-end scalable web, mobile, and native software** with 
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=e5e5e5) ![React Native](https://img.shields.io/badge/React_Native-141414?style=for-the-badge&logo=react&logoColor=e5e5e5) ![Expo](https://img.shields.io/badge/Expo-141414?style=for-the-badge&logo=expo&logoColor=e5e5e5) ![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=e5e5e5) ![Zustand](https://img.shields.io/badge/Zustand-141414?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=e5e5e5) ![CSS3](https://img.shields.io/badge/CSS3-141414?style=for-the-badge) |
-| **Backend & Systems** | ![C#](https://img.shields.io/badge/C%23-141414?style=for-the-badge&logo=dotnet&logoColor=e5e5e5) ![.NET Core](https://img.shields.io/badge/.NET_Core-141414?style=for-the-badge&logo=dotnet&logoColor=e5e5e5) ![Node.js](https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=e5e5e5) ![Express](https://img.shields.io/badge/Express-141414?style=for-the-badge&logo=express&logoColor=e5e5e5) ![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=e5e5e5) ![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=e5e5e5) ![C++](https://img.shields.io/badge/C%2B%2B-141414?style=for-the-badge&logo=cplusplus&logoColor=e5e5e5) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-141414?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-141414?style=for-the-badge&logo=expo&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Zustand](https://img.shields.io/badge/Zustand-141414?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css&logoColor=264DE4) |
+| **Backend & Systems** | ![C#](https://img.shields.io/badge/C%23-141414?style=for-the-badge&logo=dotnet&logoColor=512BD4) ![.NET Core](https://img.shields.io/badge/.NET_Core-141414?style=for-the-badge&logo=dotnet&logoColor=512BD4) ![Node.js](https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-141414?style=for-the-badge&logo=express&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=009688) ![C++](https://img.shields.io/badge/C%2B%2B-141414?style=for-the-badge&logo=cplusplus&logoColor=00599C) |
 | **AI & Vision** | ![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-141414?style=for-the-badge) ![TTS Pipelines](https://img.shields.io/badge/TTS_Pipelines-141414?style=for-the-badge) ![SAM2](https://img.shields.io/badge/SAM2_%C2%B7_Computer_Vision-141414?style=for-the-badge) |
-| **Databases & Architecture** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=e5e5e5) ![SQL Server](https://img.shields.io/badge/SQL_Server-141414?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=e5e5e5) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-141414?style=for-the-badge&logo=dotnet&logoColor=e5e5e5) ![Microservices](https://img.shields.io/badge/Microservices-141414?style=for-the-badge) ![Distributed Job Queues](https://img.shields.io/badge/Distributed_Job_Queues-141414?style=for-the-badge) |
-| **DevOps & Workflow** | ![Git](https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=e5e5e5) ![Docker](https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=e5e5e5) ![REST API](https://img.shields.io/badge/REST_API-141414?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-141414?style=for-the-badge&logo=cursor&logoColor=e5e5e5) ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-141414?style=for-the-badge) |
+| **Databases & Architecture** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-141414?style=for-the-badge&logo=database&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-141414?style=for-the-badge&logo=dotnet&logoColor=512BD4) ![Microservices](https://img.shields.io/badge/Microservices-141414?style=for-the-badge) ![Distributed Job Queues](https://img.shields.io/badge/Distributed_Job_Queues-141414?style=for-the-badge) |
+| **DevOps & Workflow** | ![Git](https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=2496ED) ![REST API](https://img.shields.io/badge/REST_API-141414?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-141414?style=for-the-badge&logo=cursor&logoColor=ffffff) ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-141414?style=for-the-badge) |
 
 ---
 
@@ -62,7 +62,7 @@ I design and ship **end-to-end scalable web, mobile, and native software** with 
 
 <!-- Total Contributions & Coding Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=overflowd&background=0d0d0d&border=262626&stroke=262626&ring=e5e5e5&fire=d4d4d4&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=737373&border_radius=8&timezone=Europe%2FIstanbul" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=overflowd&background=0d0d0d&border=262626&stroke=262626&ring=e5e5e5&fire=fb8c00&currStreakNum=ffffff&sideNums=f5f5f5&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=737373&border_radius=8&timezone=Europe%2FIstanbul" alt="GitHub Contribution Streak" />
 </p>
 
 <!-- Contribution Activity Graph -->
@@ -73,8 +73,3 @@ I design and ship **end-to-end scalable web, mobile, and native software** with 
 </div>
 
 <br />
-
-<!-- Footer Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:27272a&height=110&section=footer&text=Turning%20complex%20problems%20into%20modern%2C%20analytical%20solutions.&fontSize=15&fontColor=a3a3a3&fontAlignY=70&animation=fadeIn" alt="Footer Wave" />
-</div>
