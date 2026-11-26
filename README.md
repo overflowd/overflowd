@@ -1,28 +1,19 @@
 <div align="center">
-
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:27272a&height=220&section=header&text=Atalay%20%C3%87elik&fontSize=48&fontColor=f5f5f5&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20AI-Assisted%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Atalay Çelik Header Banner" />
-
-<!-- Animated Typing Tagline -->
-<a href="https://github.com/overflowd">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=42&lines=Architecting+scalable+web%2C+mobile+%26+AI-powered+systems;Shipping+with+Spec-Driven+Development+%26+AI-Assisted+Coding;High-Performance+APIs+%C2%B7+Microservices+%C2%B7+Distributed+Queues;Turning+complex+problems+into+modern%2C+analytical+solutions" alt="Typing SVG" />
-</a>
-
-<br />
-
-<!-- Connect & Quick Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/atalay-celik/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Atalay_%C3%87elik-262626?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2&labelColor=0a0a0a" alt="LinkedIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:27272a&height=165&section=header&text=Atalay%20%C3%87elik&fontSize=44&fontColor=f5f5f5&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20AI-Assisted%20Developer&descSize=15&descAlignY=62&animation=fadeIn" alt="Atalay Çelik Header Banner" />
+  <a href="https://github.com/overflowd">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=34&lines=Architecting+scalable+web%2C+mobile+%26+AI-powered+systems;Shipping+with+Spec-Driven+Development+%26+AI-Assisted+Coding;High-Performance+APIs+%C2%B7+Microservices+%C2%B7+Distributed+Queues;Turning+complex+problems+into+modern%2C+analytical+solutions" alt="Typing SVG" />
   </a>
-  <a href="mailto:atalaycelik4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atalaycelik4%40gmail.com-262626?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <a href="https://github.com/overflowd?tab=followers">
-    <img src="https://img.shields.io/github/followers/overflowd?label=Followers&style=for-the-badge&logo=github&logoColor=ffffff&color=262626&labelColor=0a0a0a" alt="GitHub Followers" />
-  </a>
-</p>
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/atalay-celik/">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Atalay_%C3%87elik-262626?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2&labelColor=0a0a0a" alt="LinkedIn" />
+    </a>
+    <a href="mailto:atalaycelik4@gmail.com">
+      <img src="https://img.shields.io/badge/Email-atalaycelik4%40gmail.com-262626?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0a0a0a" alt="Email" />
+    </a>
+    <a href="https://github.com/overflowd?tab=followers">
+      <img src="https://img.shields.io/github/followers/overflowd?label=Followers&style=for-the-badge&logo=github&logoColor=ffffff&color=262626&labelColor=0a0a0a" alt="GitHub Followers" />
+    </a>
+  </p>
 </div>
 
 ---
