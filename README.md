@@ -74,19 +74,6 @@ I design and ship **end-to-end scalable web, mobile, and native software** with 
 
 ---
 
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/overflowd/ets2-auto-shift-lock">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=overflowd&repo=ets2-auto-shift-lock&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=70a5fd&icon_color=38bdf8&text_color=c9d1d9&border_radius=10" alt="ets2-auto-shift-lock" />
-  </a>
-  <a href="https://github.com/overflowd/ETS2Companion">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=overflowd&repo=ETS2Companion&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=70a5fd&icon_color=38bdf8&text_color=c9d1d9&border_radius=10" alt="ETS2Companion" />
-  </a>
-</div>
-
-<br />
-
 <!-- Footer Wave -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0e7490&height=110&section=footer&text=Turning%20complex%20problems%20into%20modern%2C%20analytical%20solutions.&fontSize=15&fontColor=cbd5e1&fontAlignY=70&animation=fadeIn" alt="Footer Wave" />
