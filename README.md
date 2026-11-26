@@ -71,5 +71,3 @@ I design and ship **end-to-end scalable web, mobile, and native software** with 
 </p>
 
 </div>
-
-<br />
