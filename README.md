@@ -1,5 +1,3 @@
-`overflowd`
-
 # Atalay Çelik
 
 Full-stack software engineer building web APIs, distributed backends, AI pipelines, and native Windows tools
