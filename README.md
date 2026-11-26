@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:27272a&height=220&section=header&text=Atalay%20%C3%87elik&fontSize=48&fontColor=f5f5f5&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20AI-Assisted%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Atalay Çelik Header Banner" />
-
-<!-- Animated Typing Tagline -->
-<a href="https://github.com/overflowd">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=42&lines=Architecting+scalable+web%2C+mobile+%26+AI-powered+systems;Shipping+with+Spec-Driven+Development+%26+AI-Assisted+Coding;High-Performance+APIs+%C2%B7+Microservices+%C2%B7+Distributed+Queues;Turning+complex+problems+into+modern%2C+analytical+solutions" alt="Typing SVG" />
-</a>
-
-<br />
+<!-- Hero Banner & Animated Typing Tagline -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:18181b,100:27272a&height=150&section=header&text=Atalay%20%C3%87elik&fontSize=44&fontColor=f5f5f5&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20AI-Assisted%20Developer&descSize=16&descAlignY=68&animation=fadeIn" alt="Atalay Çelik Header Banner" />
+  <br />
+  <a href="https://github.com/overflowd">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=30&lines=Architecting+scalable+web%2C+mobile+%26+AI-powered+systems;Shipping+with+Spec-Driven+Development+%26+AI-Assisted+Coding;High-Performance+APIs+%C2%B7+Microservices+%C2%B7+Distributed+Queues;Turning+complex+problems+into+modern%2C+analytical+solutions" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Connect & Quick Badges -->
 <p align="center">
