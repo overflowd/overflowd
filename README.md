@@ -2,10 +2,10 @@
 
 <!-- Hero Banner & Animated Typing Tagline -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:18181b,100:27272a&height=150&section=header&text=Atalay%20%C3%87elik&fontSize=44&fontColor=f5f5f5&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20AI-Assisted%20Developer&descSize=16&descAlignY=68&animation=fadeIn" alt="Atalay Çelik Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,50:18181b,100:27272a&height=150&section=header&text=Atalay%20%C3%87elik&fontSize=44&fontColor=f5f5f5&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Systems%20Builder&descSize=16&descAlignY=68&animation=fadeIn" alt="Atalay Çelik Header Banner" />
   <br />
   <a href="https://github.com/overflowd">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=30&lines=Architecting+scalable+web%2C+mobile+%26+AI-powered+systems;Shipping+with+Spec-Driven+Development+%26+AI-Assisted+Coding;High-Performance+APIs+%C2%B7+Microservices+%C2%B7+Distributed+Queues;Turning+complex+problems+into+modern%2C+analytical+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=30&lines=Architecting+scalable+web%2C+mobile+%26+native+systems;Building+high-performance+APIs+%26+fault-tolerant+backends;Microservices+%C2%B7+Distributed+Queues+%C2%B7+Clean+Architecture;Turning+complex+problems+into+modern%2C+analytical+solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,11 +28,11 @@
 
 ### About Me
 
-I design and ship **end-to-end scalable web, mobile, and native software** with a focus on clean architecture, speed, and reliability. Going beyond traditional development workflows, I combine **Spec-Driven Development (SDD)** with **AI-Assisted Engineering** to take complex systems—AI integrations, microservices, and distributed job queues—from concept to production rapidly and predictably.
+I am a **Full-Stack Software Engineer** focused on designing and building scalable web, mobile, and desktop software from the ground up. I care deeply about clean architecture, performance, and reliability—taking products from initial design to production with a pragmatic, engineering-first mindset.
 
-- **Core Focus:** High-performance APIs, AI-powered web & mobile applications, and fault-tolerant system architectures
-- **Systems & Native:** Building lightweight Windows utilities and native C++ / C# plugins alongside full-stack cloud apps
-- **Engineering Workflow:** Spec-Driven Development (SDD), modular backend design, and modern AI-assisted toolchains
+- **Core Focus:** High-performance backend APIs, cross-platform web & mobile apps, and resilient system architectures
+- **Systems & Native:** Building lightweight Windows utilities and native C++ / C# plugins alongside full-stack applications
+- **Engineering Approach:** Spec-driven workflows, modular design, and maintainable production code
 - **Reach Me:** [LinkedIn](https://www.linkedin.com/in/atalay-celik/) · [atalaycelik4@gmail.com](mailto:atalaycelik4@gmail.com)
 
 ---
@@ -43,7 +43,6 @@ I design and ship **end-to-end scalable web, mobile, and native software** with 
 | :--- | :--- |
 | **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-141414?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-141414?style=for-the-badge&logo=expo&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Zustand](https://img.shields.io/badge/Zustand-141414?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css&logoColor=264DE4) |
 | **Backend & Systems** | ![C#](https://img.shields.io/badge/C%23-141414?style=for-the-badge&logo=dotnet&logoColor=512BD4) ![.NET Core](https://img.shields.io/badge/.NET_Core-141414?style=for-the-badge&logo=dotnet&logoColor=512BD4) ![Node.js](https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-141414?style=for-the-badge&logo=express&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=009688) ![C++](https://img.shields.io/badge/C%2B%2B-141414?style=for-the-badge&logo=cplusplus&logoColor=00599C) |
-| **AI & Vision** | ![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-141414?style=for-the-badge) ![TTS Pipelines](https://img.shields.io/badge/TTS_Pipelines-141414?style=for-the-badge) ![SAM2](https://img.shields.io/badge/SAM2_%C2%B7_Computer_Vision-141414?style=for-the-badge) |
 | **Databases & Architecture** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-141414?style=for-the-badge&logo=database&logoColor=CC2927) ![MySQL](https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-141414?style=for-the-badge&logo=dotnet&logoColor=512BD4) ![Microservices](https://img.shields.io/badge/Microservices-141414?style=for-the-badge) ![Distributed Job Queues](https://img.shields.io/badge/Distributed_Job_Queues-141414?style=for-the-badge) |
 | **DevOps & Workflow** | ![Git](https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=2496ED) ![REST API](https://img.shields.io/badge/REST_API-141414?style=for-the-badge) ![OpenCode](https://img.shields.io/badge/OpenCode-141414?style=for-the-badge&logo=opencode&logoColor=ffffff) ![Antigravity](https://img.shields.io/badge/Antigravity-141414?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwQjk1QyIvPjxzdG9wIG9mZnNldD0iMzIlIiBzdG9wLWNvbG9yPSIjRkJCQzA0Ii8%2BPHN0b3Agb2Zmc2V0PSI2NSUiIHN0b3AtY29sb3I9IiNGQzQxM0QiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzMTg2RkYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBmaWxsPSJ1cmwoI2cpIiBkPSJNMjEuNzUxIDIyLjYwN2MxLjM0IDEuMDA1IDMuMzUuMzM1IDEuNTA4LTEuNTA4QzE3LjczIDE1Ljc0IDE4LjkwNCAxIDEyLjAzNyAxIDUuMTcgMSA2LjM0MiAxNS43NC44MTUgMjEuMWMtMi4wMSAyLjAwOS4xNjcgMi41MTEgMS41MDcgMS41MDYgNS4xOTItMy41MTcgNC44NTctOS43MTQgOS43MTUtOS43MTQgNC44NTcgMCA0LjUyMiA2LjE5NyA5LjcxNCA5LjcxNXoiLz48L3N2Zz4%3D) |
 
